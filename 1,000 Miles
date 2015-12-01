@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bike Lanes over Putholes and Wreckage</title>
+        <link rel="stylesheet" href="styles.css">
+        <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <style>
+      body {
+        font-family: 'Architecs+Daughter', serif;
+        font-size: 18px;
+      }
+    </style>
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="header">
+                <h1>Street Conditions</h1>
+            </div>
+            <div id="main">
+                <p>A few months ago the NYC Department of Transportation and the NYC Parks Department announced the completion of over 1,000 miles of bike lanes and routes throughout the five boroughs. This comes as great news for those of us in search of a greener and more bike friendly city.
+
+The announcement was made by DOT’s commissioner Polly Trottenberg and NYC Parks Commissioner Mitchell J. Silver. 
+So far The de Blasio administration has added 77 miles to the bike network since 2014, with 27 of those miles installed this year. DOT this year has estimated the installation of the highest number in a calendar year.
+
+The 1,000-mile accomplishment was marked by the termination of the green bike lane at Clinton Street, Manhattan; which now has a special sign featuring the 1,000-mile milestone.
+
+Even though this accomplishment is wildly celebrated having more and newer bike lanes is not completely helpful when the existing ones are not being taking care off due to poor street conditions. 
+
+Following the 1,000-mile achievement, Senator Daniel Squadron expressed - “1,000 miles of bike network access is a move towards safer streets, roads, and more transportation options for more New Yorkers.” Indeed, more transportation options are presented to New Yorkers than ever before but that doesn´t mean that they are all safe or properly taken care of. Shouldn't the NYC Department of transportation prioritize the maintenance of street conditions for the benefit of cars, bikers and pedestrians?
+
+
+</p>
+                <img src="http://i.imgur.com/ZOsheiQ.jpg" alt="Street Complaints"/>                 
+            </div>
+            <div id="map">
+                <p>Map with filed complaints around the city</p>
+                <iframe width="100%" height="520" frameborder="0" src="https://pilicasti.cartodb.com/viz/d78b8c58-95e0-11e5-8528-0ea31932ec1d/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+            </div>
+            <div id="footer">
+                 <p>Code by Pilar Castineyras. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+            </div>
+        </div>
+    </body>
+    <script src="myscript.js"></script>
+</html>
